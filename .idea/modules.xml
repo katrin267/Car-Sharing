@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Car Sharing.iml" filepath="$PROJECT_DIR$/.idea/Car Sharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Car_Sharing.iml" filepath="$PROJECT_DIR$/.idea/modules/Car_Sharing.iml" group="Car_Sharing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Car Sharing/task/Car_Sharing-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Car Sharing/task/Car_Sharing-task.iml" group="Car_Sharing/Car_Sharing-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Car Sharing/task/Car_Sharing-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Car Sharing/task/Car_Sharing-task_main.iml" group="Car_Sharing/Car_Sharing-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Car Sharing/task/Car_Sharing-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Car Sharing/task/Car_Sharing-task_test.iml" group="Car_Sharing/Car_Sharing-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Books/Problems-Books.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Books/Problems-Books.iml" group="Car_Sharing/Problems-Books" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Books/Problems-Books_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Books/Problems-Books_main.iml" group="Car_Sharing/Problems-Books" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Books/Problems-Books_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Books/Problems-Books_test.iml" group="Car_Sharing/Problems-Books" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers.iml" group="Car_Sharing/Problems-Generate_random_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers_main.iml" group="Car_Sharing/Problems-Generate_random_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers_test.iml" group="Car_Sharing/Problems-Generate_random_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers.iml" group="Car_Sharing/Problems-Sorting_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers_main.iml" group="Car_Sharing/Problems-Sorting_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers_test.iml" group="Car_Sharing/Problems-Sorting_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Using streams many times/Problems-Using_streams_many_times.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Using streams many times/Problems-Using_streams_many_times.iml" group="Car_Sharing/Problems-Using_streams_many_times" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Using streams many times/Problems-Using_streams_many_times_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Using streams many times/Problems-Using_streams_many_times_main.iml" group="Car_Sharing/Problems-Using_streams_many_times" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Using streams many times/Problems-Using_streams_many_times_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Using streams many times/Problems-Using_streams_many_times_test.iml" group="Car_Sharing/Problems-Using_streams_many_times" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Car_Sharing/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Car_Sharing/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Car_Sharing/util" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Car_Sharing-task_main" target="11" />
+      <module name="Car_Sharing-task_test" target="11" />
+      <module name="Problems-Books_main" target="11" />
+      <module name="Problems-Books_test" target="11" />
+      <module name="Problems-Generate_random_numbers_main" target="11" />
+      <module name="Problems-Generate_random_numbers_test" target="11" />
+      <module name="Problems-Sorting_numbers_main" target="11" />
+      <module name="Problems-Sorting_numbers_test" target="11" />
+      <module name="Problems-Using_streams_many_times_main" target="11" />
+      <module name="Problems-Using_streams_many_times_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
